@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍💻  I'm a Software Engineer mostly interested in Data and Machine Learning applications. 
+👨‍💻  I'm a Software Engineer and Data Analyst mostly interested in Data and Machine Learning applications. 
 
 👨‍🎓  Strong research professional with a Master of Science (M.S.) focused in Computer Science from Kansas State University.
 
