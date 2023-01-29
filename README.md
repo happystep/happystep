@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍💻  I'm a Software Engineer mostly interested in data driven applications.
+👨‍💻  I'm a Data Engineer mostly interested in big data driven applications.
 
 👨‍🎓  Strong research professional with a Master of Science (M.S.) focused in Computer Science from Kansas State University.
 
