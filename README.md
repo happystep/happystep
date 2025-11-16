@@ -15,8 +15,5 @@ I work at Plub designing ingestion frameworks, orchestration workflows, and AWS 
 - Automation + CI/CD  
 - Designing systems that make analytics faster, simpler, and more reliable  
 
-### What’s next
-2026 will be my year of deep-diving into **Terraform, platform automation, and architectural patterns** as I transition fully into a Data Platform Engineer role.
-
 📫 You can reach me at: luis.bobadilla.dias@gmail.com  
 🌐 LinkedIn: https://www.linkedin.com/in/luis-bobadilla-dias/  
