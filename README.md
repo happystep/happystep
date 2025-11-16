@@ -1,9 +1,22 @@
-### Hi there 👋
+# Hi there 👋
 
-👨‍💻  I'm a Data Engineer mostly interested in big data driven applications.
+I’m Luis — a Data Platform Engineer focused on building modern, cloud-native data platforms.
 
-👨‍🎓  Strong research professional with a Master of Science (M.S.) focused in Computer Science from Kansas State University.
+I work at Plub designing ingestion frameworks, orchestration workflows, and AWS Lakehouse components (S3, Glue, Athena, Lake Formation). My interests sit at the intersection of **data engineering, cloud infrastructure, and data architecture**.
 
-👯  I’m looking to collaborate on new projects involving applications using new data engineering technologies.
+### What I’m working on
+- Building and evolving resilient data platform foundations  
+- Implementing Infrastructure as Code (Terraform) for reproducible data environments  
+- Improving data governance, metadata, lineage, and quality frameworks  
+- Learning more about architecture, orchestration, and modern data stack tools  
 
-📫  How to reach me: luis.bobadilla.dias@gmail.com
+### What I enjoy
+- Cloud-native engineering (AWS)  
+- Automation + CI/CD  
+- Designing systems that make analytics faster, simpler, and more reliable  
+
+### What’s next
+2026 will be my year of deep-diving into **Terraform, platform automation, and architectural patterns** as I transition fully into a Data Platform Engineer role.
+
+📫 You can reach me at: luis.bobadilla.dias@gmail.com  
+🌐 LinkedIn: https://www.linkedin.com/in/luis-bobadilla-dias/  
