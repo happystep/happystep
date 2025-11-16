@@ -6,7 +6,7 @@ I work at Plub designing ingestion frameworks, orchestration workflows, and AWS 
 
 ### What I’m working on
 - Building and evolving resilient data platform foundations  
-- Implementing Infrastructure as Code (Terraform) for reproducible data environments  
+- Implementing Infrastructure as Code for reproducible data environments  
 - Improving data governance, metadata, lineage, and quality frameworks  
 - Learning more about architecture, orchestration, and modern data stack tools  
 
