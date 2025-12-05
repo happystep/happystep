@@ -2,7 +2,7 @@
 
 I’m Luis — a Data Engineer focused on building modern, cloud-native data platforms.
 
-I work at Plub designing ingestion frameworks, orchestration workflows, and AWS Lakehouse components (S3, Glue, Athena, Lake Formation). My interests sit at the intersection of **data engineering, cloud infrastructure, and data architecture**.
+I work at [Plub](https://plub.com/) designing ingestion frameworks, orchestration workflows, and AWS Lakehouse components (S3, Glue, Athena, Lake Formation). My interests sit at the intersection of **data engineering, cloud infrastructure, and data architecture**.
 
 ### What I’m working on
 - Building and evolving resilient data platform foundations  
