@@ -17,9 +17,8 @@ Currently at Plub, I lead the design of our AWS Lakehouse infrastructure. My mis
 ## What I enjoy  
 
 - Cloud-native engineering (AWS)
-- Designing reliable systems and developer platforms
+- Designing reliable systems and data platforms
 - Automation, infrastructure, and CI/CD
-- Building software that scales from **MVP to production**
 
 ---
 
