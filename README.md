@@ -11,9 +11,6 @@ Currently at Plub, I lead the design of our AWS Lakehouse infrastructure. My mis
 - Designing resilient **ingestion and orchestration frameworks**
 - Implementing **Infrastructure as Code and cloud automation**
 
-
-- CI/CD Automation
-
 ---
 
 ## What I enjoy  
