@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Luis Bobadilla Dias** — a **Founder & Solutions Architect | Senior Data Platform Engineer** specializing in **data platforms, cloud-native systems, and modern back-end applications**.
+I'm **Luis Bobadilla Dias** — a **Senior Data Platform Engineer** specializing in **data platforms, cloud-native systems, and modern back-end applications**.
 
 I currently work at **Plub**, designing scalable data platform foundations and AWS lakehouse infrastructure *(S3, Glue, Athena, Lake Formation)*.
 
