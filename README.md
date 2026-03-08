@@ -59,7 +59,7 @@ Outside of my primary role, I build software projects through **HappyStep Labs**
 
 ---
 
-## 📫 Reach me at
+## Reach me at
 
 - Email: luis.bobadilla.dias@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/luis-bobadilla-dias  
