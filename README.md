@@ -2,7 +2,7 @@
 
 I'm Luis Bobadilla Dias — a Senior Data Platform Engineer focused on architecting the next generation of autonomous data platforms and cloud-native ecosystems.
 
-**Currently at Plub, I lead the design of our AWS Lakehouse infrastructure. My mission is to bridge the gap between complex data engineering and product-driven value, evolving our stack into a highly scalable, self-service foundation.**
+Currently at Plub, I lead the design of our AWS Lakehouse infrastructure. My mission is to bridge the gap between complex data engineering and product-driven value, evolving our stack into a highly scalable, self-service foundation.
 ---
 
 ## What I'm working on  
