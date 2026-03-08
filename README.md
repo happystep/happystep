@@ -55,7 +55,7 @@ In parallel, through **HappyStep Labs**, I collaborate with early-stage teams to
 
 ## Projects & Labs
 
-Outside of my primary role, I build software projects through **HappyStep Labs** — a technical sandbox and consultancy focused on evolving the way organizations think about data platforms..
+Outside of my primary role, I build software projects through **HappyStep Labs** — a technical sandbox and consultancy focused on evolving the way organizations think about data platforms.
 
 ---
 
