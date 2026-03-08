@@ -30,4 +30,4 @@ Currently at Plub, I lead the design of our AWS Lakehouse infrastructure. My mis
 
 - Email: luis.bobadilla.dias@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/luis-bobadilla-dias  
-- Portfolio: https://luisbobadilladias.github.io
+- Personal Website: https://luisbobadilladias.github.io
