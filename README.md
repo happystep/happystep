@@ -1,8 +1,12 @@
 # Hi there 👋
 
-I'm Luis Bobadilla Dias — a Senior Data Platform Engineer focused on architecting the next generation of autonomous data platforms and cloud-native ecosystems.
+I'm a Senior Data Platform Engineer and entrepreneur based in Paraguay.
 
-Currently at Plub, I lead the design of our AWS Lakehouse infrastructure. My mission is to bridge the gap between complex data engineering and product-driven value, evolving our stack into a highly scalable, self-service foundation.
+At Plub, I specialize in building scalable, cloud-native data platforms on AWS — designing lakehouse architectures, ingestion frameworks, orchestration workflows, and production-grade pipelines that power both operational and analytical workloads.
+
+Beyond my engineering career, I'm Co-Founder & Technical Lead at HappyStep Labs, a venture studio where I lead the technical strategy, infrastructure, and full-stack development across a growing portfolio of digital products.
+
+I'm passionate about applying software engineering rigor to data infrastructure, and building technology that scales — whether that's a data platform serving millions of events or a startup going from idea to launch.
 
 ---
 
