@@ -21,6 +21,6 @@ I'm passionate about applying software engineering rigor to data infrastructure,
 
 ## Reach me at
 
-- Email: luis.bobadilla.dias@gmail.com  
+- Email: bobadillaluis.p@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/luisbobadilladias  
 - Personal Website: https://luisbobadilladias.github.io
